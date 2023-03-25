@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>html website</title>
+<head>
+</head>
+<body>
+
+
+    <div>
+        <div style="background-image:url('https://images.unsplash.com/photo-1497704628914-8772bb97f450?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwxMDcxMTcwfHxlbnwwfHx8fA%3D%3D&w=1000&q=80'); 
+  background-size:600; height:250px; padding-top:20px;text-align:center">
+      <img  src="https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492__340.jpg" style="border:10px solid red" height=50>
+            
+      <h1 style="font-size:30px">kiruthi first website</h1>
+      <p><em>Senior Selachimorpha at DigitalOcean</em></p>
+      <h4 align:center><a href="https://en.wikipedia.org/wiki/Catering">about more</a>
+      </div><br><br><br>
+      <div>
+          <h1 ><i>caterine works</h1><br>
+          
+          <img  width="300" height="200" align="right"src="https://media.istockphoto.com/id/650655146/photo/catering-food-wedding-event-table.jpg?s=1024x1024&w=is&k=20&c=OdtF8sPw42z6DzhWibQsvDuBA3OhYduPHOBzpJzy_fc=">
+          
+          <p ><h3 align="left"> This is the picture of <strong>caterine</strong> and everyone loves to eat ...preparing and serving is a kind of <i>art </i> .The dishes makes one's to feel and enjoy a alot .Every big star hotels maintain a hygeneic catrien works .foods served in  the hotels or delicious when compare to mom's food .Catering is the process or business of preparing food and providing food services for clients at remote locations, such as hotels, restaurants, offices, concerts, and events. Companies that offer food, drinks, and other services to various customers, typically for special occasions, make up the caterine sector.The foodservice or catering industry includes the businesses, institutions, and companies which prepare meals outside the home. It includes restaurants, school and hospital cafeterias, catering operations, and many other formats. the process of preparing and providing food for different types of events, such as weddings, concessions, and corporate and social gatherings.
+</h3></p>
+      </div>
+      <h2 >Thankyou</h2>
+      
+      </body>
+      </html>
+        
